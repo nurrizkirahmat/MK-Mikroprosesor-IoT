@@ -1,2 +1,2 @@
 # mk-mikroprosesor-iot
-berisi tugas dari mata kuliah mikroprosesor iot
+Collection of assignments from microprocessor and IOT courses
